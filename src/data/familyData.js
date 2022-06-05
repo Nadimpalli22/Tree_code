@@ -28,7 +28,7 @@ export const data = [
     { id: 20, pid: 8, Name: "Thaviti Raju", PartnerName: "", village: " ", img: user_image },
 
     { id: 21, pid: 7, Name: "Pramila", PartnerName: "", village: " ", img: user_image },
-    { id: 22, pid: 7, Name: "Ramesh Raju", PartnerName: "Uma", village: " ", img: user_image },
+    { id: 22, pid: 7, Name: "Ramesh Raju", PartnerName: "Uma", village: "Pedapulleru", img: user_image },
     { id: 23, pid: 7, Name: "Jyothi", PartnerName: "", village: " ", img: user_image },
 
     { id: 24, pid: 16, Name: "Jyothi", PartnerName: "", village: "", img: user_image },
@@ -51,7 +51,18 @@ export const data = [
     { id: 35, pid: 22, Name: "Pramod", PartnerName: "", village: " ", img: user_image },
     { id: 36, pid: 22, Name: "Pradeep", PartnerName: "", village: " ", img: user_image },
 
+    { id: 37, pid: 11, Name: "Ramesh", PartnerName: "", village: " ", img: user_image },
+    { id: 38, pid: 11, Name: "Kumari", PartnerName: "", village: " ", img: user_image },
 
+    { id: 39, pid: 9, Name: "Sambha", PartnerName: "", village: " ", img: user_image },
+    { id: 40, pid: 9, Name: "Narayana Murthy", PartnerName: "", village: " ", img: user_image },
+    { id: 41, pid: 9, Name: "Papa", PartnerName: "", village: " ", img: user_image },
+    { id: 42, pid: 9, Name: "Appal Raju", PartnerName: "", village: " ", img: user_image },
+
+    { id: 43, pid: 12, Name: "Harish", PartnerName: "", village: " ", img: user_image },
+    { id: 44, pid: 12, Name: "Suresh", PartnerName: "", village: " ", img: user_image },
+
+    { id: 45, pid: 13, Name: "Varma", PartnerName: "", village: "", img: user_image },
 
 
 ]
