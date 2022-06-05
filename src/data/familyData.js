@@ -14,14 +14,14 @@ export const data = [
     { id: 9, pid: 5, Name: "Simhachalam", PartnerName: "", village: "", img: user_image },
     { id: 10, pid: 5, Name: "Appal Raju", PartnerName: "", village: "", img: user_image },
     { id: 11, pid: 5, Name: "Satyna Narayan", PartnerName: "", village: "", img: user_image },
+    { id: 13, pid: 5, Name: "Ravana Raju", PartnerName: "", village: "", img: user_image },
+
     { id: 12, pid: 5, Name: "Thaviti Raju[chanti raju]", PartnerName: "", village: "", img: user_image },
-    { id: 13, pid: 5, Name: "Satyavati", PartnerName: "", village: "", img: user_image },
-    { id: 14, pid: 5, Name: "Ravana Raju", PartnerName: "", village: "", img: user_image },
+    { id: 14, pid: 5, Name: "Satyavati", PartnerName: "", village: "", img: user_image },
 
-    { id: 15, pid: 6, Name: "Narasimha Raju", PartnerName: "", village: "", img: user_image },
-    { id: 16, pid: 6, Name: "Srinivasa Raju", PartnerName: "", village: "", img: user_image },
-    { id: 17, pid: 6, Name: "Appala Narasamma[chanti]", PartnerName: "", village: "", img: user_image },
-
+    { id: 15, pid: 6, Name: "Appala Narasamma[chanti]", PartnerName: "", village: "", img: user_image },
+    { id: 16, pid: 6, Name: "Narasimha Raju", PartnerName: "", village: "", img: user_image },
+    { id: 17, pid: 6, Name: "Srinivasa Raju", PartnerName: "", village: "", img: user_image },
 
     { id: 18, pid: 8, Name: "Jagannadha Raju", PartnerName: "", village: " ", img: user_image },
     { id: 19, pid: 8, Name: "Lakshmi", PartnerName: "", village: " ", img: user_image },
@@ -30,6 +30,16 @@ export const data = [
     { id: 21, pid: 7, Name: "Thaviti Raju", PartnerName: "", village: " ", img: user_image },
     { id: 22, pid: 7, Name: "Thaviti Raju", PartnerName: "", village: " ", img: user_image },
     { id: 23, pid: 7, Name: "Thaviti Raju", PartnerName: "", village: " ", img: user_image },
+
+    { id: 24, pid: 16, Name: "Jyothi", PartnerName: "", village: "", img: user_image },
+    { id: 25, pid: 16, Name: "Ramu", PartnerName: "", village: "", img: user_image },
+
+    { id: 26, pid: 17, Name: "Srisha", PartnerName: "", village: "", img: user_image },
+
+    { id: 27, pid: 18, Name: "Srinivasa Raju", PartnerName: "", village: " ", img: user_image },
+    { id: 28, pid: 18, Name: "Chinni", PartnerName: "", village: " ", img: user_image },
+
+
 
 
 
