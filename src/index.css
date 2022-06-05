@@ -13,7 +13,4 @@ body {
   height: 100%;
 }
 
-#tree>svg {
-  background-color: #2E2E2E;
-  height: auto;
-}
+#tree>svg {}

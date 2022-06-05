@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import OrgChart from './mytree';
 import { data } from './data/familyData';
-import { type } from '@testing-library/user-event/dist/type';
 
 export default class App extends Component {
 

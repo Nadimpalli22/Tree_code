@@ -17,7 +17,7 @@ export default class extends Component {
     componentDidMount() {
         this.chart = new OrgChart(this.divRef.current, {
             nodes: this.props.nodes,
-            // layout: OrgChart.treeLeftOffset,
+            layout: OrgChart.treeLeftOffset,
 
             nodeBinding: {
                 field_0: "Name",
@@ -40,8 +40,6 @@ export default class extends Component {
         //default height fix
         document.getElementById('tree').style.height = "1200px";
 
-
-        console.log('hello', this.chart);
     }
 
     render() {
