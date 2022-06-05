@@ -23,7 +23,7 @@ export default class extends Component {
                 field_0: "Name",
                 field_1: "PartnerName",
                 field_2: "village",
-                field_3: "",
+                field_3: "Children",
                 field_4: "",
                 field_5: "",
                 img_0: "img"
